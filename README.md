@@ -1,6 +1,9 @@
 
 <div>
-  <a href="https://github.com/JoelenCruz">
+    <a href="https://github.com/JoelenCruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelenCruz&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Joelen Cruz's github stats"/>
+</a>
+
 </div>
  <br>
 <div  align="left"> 
