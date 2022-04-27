@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/JoelenCruz">
 </div>
-  
+  ##
  <br>
 <div  align="left"> 
   <div style="display: inline_block"><br>
@@ -13,7 +13,8 @@
   <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-  </div>
+    ##
+ </div>
   <a href="https://www.linkedin.com/in/joelen-cruz-da-silva-5b2a43113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
