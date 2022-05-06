@@ -30,10 +30,10 @@
   <a style="widht: 20px" href="mailto:joelencruz@gmail.com" ><img src="https://img.shields.io/badge/Google_gmail-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white"></a>
 </div>
             
-
+<div>
 🇧🇷 Born in Marajó, Pará, Brazil <br>
 🇵🇹 Living in Porto, Portugal <br>
-
+</div>
   
  
  
