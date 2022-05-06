@@ -29,6 +29,7 @@
   <a href="https://www.linkedin.com/in/joelen-cruz-da-silva-5b2a43113//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a style="widht: 20px" href="mailto:joelencruz@gmail.com" ><img src="https://img.shields.io/badge/Google_gmail-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white"></a>
 </div>
+     
             
 <div>
 🇧🇷 Born in Marajó, Pará, Brazil <br>
