@@ -35,7 +35,7 @@
 <div>
 🇧🇷 Born in Marajó, Pará, Brazil <br>
 🇵🇹 Living in Porto, Portugal <br>
-Cadet at 42 Porto
+Cadet at [42 Porto](https://www.42porto.com/)
 </div>
   
  
