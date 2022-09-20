@@ -38,6 +38,9 @@
 🇧🇷 Born in Marajó, Pará, Brazil <br>
 🇵🇹 Living in Porto, Portugal <br>
 Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
+
+![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   
  
