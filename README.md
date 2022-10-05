@@ -1,10 +1,4 @@
-### Hey, I'm Joelen Cruz! 👋
-
-<div>
-            <div class="col-8">
-                 <div class="status" style="display:flex">
-                   <img src="https://github-readme-stats.vercel.app/api?username=JoelenCruz&show_icons=true&theme=tokyonight">
-                 
+### Hey, I'm Joelen Cruz! 👋                 
 <div  align="left"> 
   <div style="display: inline_block"><br>
      <h4>Technologies and Tools:</h4>
