@@ -42,7 +42,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 1 | [get_next_line](https://github.com/JoelenCruz/get_next_line_42) | C | 100% | Read a single line from a fd. | [![GNL](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/get_next_linee.png)](https://github.com/humbertoarndt/get_next_line) |
 | 1 | [ft_printf](https://github.com/JoelenCruz/printf_42) | C | 100% | Recreates the printf function. | [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/humbertoarndt/ft_printf) |
 | 1 | [born2beroot]() | Shell, CLI | building. | Create a virtual machine. | [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/humbertoarndt/Born2beRoot) |
-| 2 | [minitalk]() | C, CLI | building. | Create communication between terminals | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkn.png)]([https://github.com/humbertoarndt/Born2beRoot](https://github.com/JoelenCruz/minitalk_42)) |
+| 2 | [minitalk](https://github.com/JoelenCruz/minitalk_42) | C, CLI | building. | Create communication between terminals | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkn.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
   
 ![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
