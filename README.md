@@ -43,7 +43,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 1 | [ft_printf](https://github.com/JoelenCruz/printf_42) | C | 100% | Recreates the printf function. | [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/humbertoarndt/ft_printf) |
 | 1 | [born2beroot]() | Shell, CLI | 93% | Create a virtual machine. | [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/humbertoarndt/Born2beRoot) |
 | 2 | [minitalk](https://github.com/JoelenCruz/minitalk_42) | C, CLI | 104% | Create communication between terminals | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkn.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
-| 2 | [push_swap](https://github.com/JoelenCruz/minitalk_4) | C, CLI | building... | Sort numbers on stack | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
+| 2 | [push_swap](https://github.com/JoelenCruz/minitalk_4) | C, CLI | building... | Sort a list o random numbers in the least amount of moves possible. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
   
 ![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
