@@ -22,7 +22,7 @@
             
 <div>
   <h4>Contact:</h4>
-  <a style="border-radius:10%" href="https://www.instagram.com/joelen_cruz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a style="border-radhttps://github.com/JoelenCruz/push_swapius:10%" href="https://www.instagram.com/joelen_cruz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joelen-cruz-da-silva-5b2a43113//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a style="widht: 20px" href="mailto:joelencruz@gmail.com" ><img src="https://img.shields.io/badge/Google_gmail-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white"></a>
 </div>
@@ -43,7 +43,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 1 | [ft_printf](https://github.com/JoelenCruz/printf_42) | C | 100% | Recreates the printf function. | [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/humbertoarndt/ft_printf) |
 | 1 | [born2beroot]() | Shell, CLI | 93% | Create a virtual machine. | [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/humbertoarndt/Born2beRoot) |
 | 2 | [minitalk](https://github.com/JoelenCruz/minitalk_42) | C, CLI | 104% | Create communication between terminals | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkn.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
-| 2 | [push_swap](https://github.com/JoelenCruz/minitalk_4) | C | building... | Sort a list o random numbers in the least amount of moves possible. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
+| 2 | [push_swap](https://github.com/JoelenCruz/push_swap) | C | 84% | Sort a list o random numbers in the least amount of moves possible. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
   
 ![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
