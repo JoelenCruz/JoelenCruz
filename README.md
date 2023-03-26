@@ -8,6 +8,11 @@
      <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    
+   
   
     
 
