@@ -54,3 +54,4 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 ![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
  
+ 
