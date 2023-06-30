@@ -11,6 +11,10 @@
      <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+
+   
+    
     
    
   
