@@ -12,6 +12,9 @@
      <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+
+    
 
 </div>
  
@@ -28,7 +31,7 @@
   <a href="https://www.linkedin.com/in/joelen-cruz-da-silva-5b2a43113//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a style="widht: 20px" href="mailto:joelencruz@gmail.com" ><img src="https://img.shields.io/badge/Google_gmail-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white"></a>
 </div>
-     
+      
             
 <div>
 🇧🇷 Born in Marajó, Pará, Brazil <br>
@@ -48,6 +51,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 2 | [push_swap](https://github.com/JoelenCruz/push_swap) | C | 84% | Sort a list o random numbers in the least amount of moves possible. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
 | 2 | [FdF](https://github.com/JoelenCruz/42_FDF) | C | 125% | Representing a landscape as a 3D object in which all surfaces are outlined in lines. | ![FdF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfe.png) |
 | 3 | [Philosophers](https://github.com/JoelenCruz/Philosophers) | C | Building ... | Eat, sleep, spaghetti, repeat. This project is about learning how threads work. | ![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersn.png) |
+| 3 | [MiniShell](https://github.com/JoelenCruz/Philosophers) | C | Building ... | This project is about creating a simple shell. | ![MiniShell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png) |
   
 ![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
