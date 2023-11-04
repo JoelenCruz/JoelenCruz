@@ -54,7 +54,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 2 | [push_swap](https://github.com/JoelenCruz/push_swap) | C | 84% | Sort a list o random numbers in the least amount of moves possible. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/humbertoarndt/Born2beRoot]) |
 | 2 | [FdF](https://github.com/JoelenCruz/42_FDF) | C | 125% | Representing a landscape as a 3D object in which all surfaces are outlined in lines. | ![FdF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfe.png) |
 | 3 | [Philosophers](https://github.com/JoelenCruz/Philosophers) | C | Building ... | Eat, sleep, spaghetti, repeat. This project is about learning how threads work. | ![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersn.png) |
-| 3 | [MiniShell](https://github.com/JoelenCruz/Philosophers) | C | Building ... | This project is about creating a simple shell. | ![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png)(https://github.com/JoelenCruz/Philosophers) |
+| 3 | [MiniShell](https://github.com/JoelenCruz/Philosophers) | C | Building ... | This project is about creating a simple shell. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png)](https://github.com/JoelenCruz/Philosophers) |
 
 
 
