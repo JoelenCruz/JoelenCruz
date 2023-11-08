@@ -1,5 +1,5 @@
 ### Hey, I'm Joelen Cruz! 👋   
-[![jcruz-da's 42 stats](https://badge42.vercel.app/api/v2/claoc1o9800640fku50sixau4/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 <div  align="left"> 
   <div style="display: inline_block"><br>
      <h4>Technologies and Tools:</h4>
