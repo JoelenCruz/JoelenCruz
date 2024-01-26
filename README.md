@@ -55,7 +55,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 2 | [FdF](https://github.com/JoelenCruz/42_FDF) | C | 125% | Representing a landscape as a 3D object in which all surfaces are outlined in lines. | [![FdF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfe.png)](https://github.com/JoelenCruz/42_FDF)|
 | 3 | [Philosophers](https://github.com/JoelenCruz/Philosophers) | C | 100% | Eat, sleep, spaghetti, repeat. This project is about learning how threads work. | [![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersn.png)](https://github.com/JoelenCruz/Philosophers) |
 | 3 | [MiniShell](https://github.com/JoelenCruz/Minishell) | C | 101% | This project is about creating a simple shell. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png)](https://github.com/JoelenCruz/Minishell) |
-| 4 | [MiniShell](https://github.com/JoelenCruz/Minishell) | C | ... | This project is about creating a simple shell. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png)](https://github.com/JoelenCruz/Minishell) |
+| 4 | [NetPractice](https://github.com/JoelenCruz/netpractice) | TCP/IP | ... | Resolve network errors in a small-scale network training environment. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/netpracticee.png)](https://github.com/JoelenCruz/netpractice) |
 
 
 
