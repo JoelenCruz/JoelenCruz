@@ -6,6 +6,7 @@
      <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+     <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
      <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
