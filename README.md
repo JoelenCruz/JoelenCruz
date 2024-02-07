@@ -56,11 +56,8 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 3 | [Philosophers](https://github.com/JoelenCruz/Philosophers) | C | 100% | Eat, sleep, spaghetti, repeat. This project is about learning how threads work. | [![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersn.png)](https://github.com/JoelenCruz/Philosophers) |
 | 3 | [MiniShell](https://github.com/JoelenCruz/Minishell) | C | 101% | This project is about creating a simple shell. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png)](https://github.com/JoelenCruz/Minishell) |
 | 4 | [NetPractice](https://github.com/JoelenCruz/netpractice) | TCP/IP | 100% | Resolve network errors in a small-scale network training environment. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/netpracticee.png)](https://github.com/JoelenCruz/netpractice) |
+| 4 | [C++ (00-04)](https://github.com/JoelenCruz/netpractice) | C++ | ... | Initial challenges in C++ | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppn.png)](https://github.com/JoelenCruz/netpractice) |
 
-
-
-  
-![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
  
  
