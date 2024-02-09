@@ -12,18 +12,36 @@ I am currently a student of software engineering at [École 42](https://www.42po
 <div  align="left"> 
   <div style="display: inline_block"><br>
      <h4>Technologies and Tools:</h4>
-     <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-     <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-     <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-     <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-     <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
-    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
-    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+     <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+     <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+     <img align="center" alt="cplusplus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">  
+     <img align="center" alt="r" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> 
+     <br>
+     <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+     <img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+     <img align="center" alt="bash" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+     <img align="center" alt="bitbucket" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+    <img align="center" alt="postgresql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="anaconda" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"> 
+    <br>
+    <img align="center" alt="vscode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="vim" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+    <img align="center" alt="nano" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg">
+    <img align="center" alt="atom" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
+    <br>
+    <img align="center" alt="trello" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
+    <img align="center" alt="jira" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"> 
+    <br>
+    <img align="center" alt="pytorch" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg">
+    <br>
+    <img align="center" alt="gimp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+    <img align="center" alt="canva" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+    
+    
+
+
+    
 
     
 
