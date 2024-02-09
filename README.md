@@ -18,6 +18,12 @@ I am currently a student of software engineering at [École 42](https://www.42po
      <img align="center" alt="cplusplus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">  
      <img align="center" alt="r" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> 
      <br>
+    <img align="center" alt="pytorch" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg">
+    <img align="center" alt="tensorflow" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"> 
+    <img align="center" alt="jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+    <img align="center" alt="pandas" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"> 
+    <img align="center" alt="scikitlearn" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"> 
+     <br>
      <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
      <img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
      <img align="center" alt="bash" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
@@ -32,12 +38,6 @@ I am currently a student of software engineering at [École 42](https://www.42po
     <br>
     <img align="center" alt="trello" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
     <img align="center" alt="jira" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"> 
-    <br>
-    <img align="center" alt="pytorch" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg">
-    <img align="center" alt="tensorflow" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"> 
-    <img align="center" alt="jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-    <img align="center" alt="pandas" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"> 
-    <img align="center" alt="scikitlearn" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"> 
     <br>
     <img align="center" alt="gimp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
     <img align="center" alt="canva" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
