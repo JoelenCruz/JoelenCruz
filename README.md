@@ -1,5 +1,14 @@
 ### Hey, I'm Joelen Cruz! 👋   
 
+I am currently a student of software engineering at [École 42](https://www.42porto.com/)
+
+📈 I work as a Data Scientist  
+🌎 Master's in Remote Sensing   
+🐟 Graduated Fishing Engineering   
+🏐 Volleyball  
+🎸 Guitar  
+ 
+
 <div  align="left"> 
   <div style="display: inline_block"><br>
      <h4>Technologies and Tools:</h4>
