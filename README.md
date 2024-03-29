@@ -8,7 +8,6 @@ I am currently a student of software engineering at [École 42](https://www.42po
 🏐 Volleyball  
 🎸 Guitar  
  
-
 <div  align="left"> 
   <div style="display: inline_block"><br>
      <h4>Technologies and Tools:</h4>
