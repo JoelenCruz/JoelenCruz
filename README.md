@@ -41,13 +41,6 @@ I am currently a student of software engineering at [École 42](https://www.42po
     <br>
     <img align="center" alt="gimp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
     <img align="center" alt="canva" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-    
-    
-
-
-    
-
-    
 
     
 
