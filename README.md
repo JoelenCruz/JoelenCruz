@@ -82,7 +82,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 3 | [MiniShell](https://github.com/JoelenCruz/Minishell) | C | 101% | This project is about creating a simple shell. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelle.png)](https://github.com/JoelenCruz/Minishell) |
 | 4 | [NetPractice](https://github.com/JoelenCruz/netpractice) | TCP/IP | 100% | Resolve network errors in a small-scale network training environment. | [![mishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/netpracticee.png)](https://github.com/JoelenCruz/netpractice) |
 | 4 | [Cub3d](https://github.com/JoelenCruz/Cub3d_level4_42) | C | 83% | This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. | [![cub3d](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cub3de.png)](https://github.com/JoelenCruz/Cub3d_level4_42) |
-| 4 / 5 | [CPP](https://github.com/JoelenCruz/CPP__level4_42) | C++ | ... | Initial challenges in C++ | [![cpp](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppn.png)](https://github.com/JoelenCruz/CPP__level4_42) |
+| 4 / 5 | [CPP](https://github.com/JoelenCruz/CPP__level4_42) | C++ | 90% | Initial challenges in C++ | [![cpp](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppn.png)](https://github.com/JoelenCruz/CPP__level4_42) |
 | 5 | [FT_IRC](https://github.com/tiagohtavares/ft_irc) | C++ | ... | This project is about creating your own IRC server | [![cpp](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_ircn.png)](https://github.com/tiagohtavares/ft_irc) |
 
 
