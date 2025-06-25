@@ -84,8 +84,7 @@ Cadet at <a href='https://www.42porto.com/'>42 Porto</a>
 | 4 | [Cub3d](https://github.com/JoelenCruz/Cub3d_level4_42) | C | 83% | This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. | [![cub3d](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cub3de.png)](https://github.com/JoelenCruz/Cub3d_level4_42) |
 | 4 / 5 | [CPP](https://github.com/JoelenCruz/CPP__level4_42) | C++ | 90% | Initial challenges in C++ | [![cpp](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppn.png)](https://github.com/JoelenCruz/CPP__level4_42) |
 | 5 | [FT_IRC](https://github.com/tiagohtavares/ft_irc) | C++ | 99% | This project is about creating your own IRC server | [![cpp](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_ircn.png)](https://github.com/tiagohtavares/ft_irc) |
-
-| 5 | [FT_TRANSCENDENCE](https://github.com/JoelenCruz/ft_transcendence) | C++ | 99% | This project is about creating your own IRC server | [![cpp](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_transcendencee.png)](https://github.com/JoelenCruz/ft_transcendence) |
+| 6 | [FT_TRANSCENDENCE](https://github.com/JoelenCruz/ft_transcendence) | Django JavaScript CSS and HTML | 105% | This project is about creating a multiplayer pong-like game using web technologies. | [![Django JavaScript CSS and HTML](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_transcendencee.png)](https://github.com/JoelenCruz/ft_transcendence) |
 
 
 
